@@ -1,5 +1,6 @@
 # CS330-ComputerGraphicAndVisualization
 A rendered 3D scene using OpenGL.
+
 texture[#].zip .pngs need to be extracted to Final_Project/textures in order for Source.cpp to find them!
 
 # How do I approach designing software?
